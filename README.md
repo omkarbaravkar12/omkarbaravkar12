@@ -29,15 +29,15 @@
     <img src="https://img.shields.io/badge/Gmail-omkarbaravkar93-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/omkarbaravkar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-omkarbaravkar-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/omkarbaravkar12" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-omkarbaravkar12-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omkarbaravkar&style=for-the-badge&color=6A0DAD&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=omkarbaravkar12&style=for-the-badge&color=6A0DAD&label=PROFILE+VIEWS"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/omkarbaravkar?style=for-the-badge&color=7D3C98&label=FOLLOWERS&logo=github"/>
+  <img src="https://img.shields.io/github/followers/omkarbaravkar12?style=for-the-badge&color=7D3C98&label=FOLLOWERS&logo=github"/>
 </p>
 
 ---
@@ -108,7 +108,7 @@ A full-stack DSA visualization platform built entirely on Java Servlets and JDBC
 | **Features** | Algorithm execution-history tracking, step-by-step real-time rendering |
 | **Build** | Automated WAR build pipeline via Apache Ant |
 | **Origin** | Refactored from a Spring Boot prototype to a lightweight Servlet app |
-| **Repository** | [github.com/omkarbaravkar](https://github.com/omkarbaravkar) |
+| **Repository** | [github.com/omkarbaravkar](https://github.com/omkarbaravkar12) |
 
 This project was an exercise in owning the full stack without a framework crutch — every request lifecycle, session token, and JDBC transaction is written and managed manually.
 
@@ -129,7 +129,7 @@ A full-stack Student ERP covering authentication, academics, finance, library, a
 | **Security** | Session-based login, role-based access control (RBAC) |
 | **Frontend** | Vanilla JS, dynamic sidebar per user role |
 | **Deployment** | Backend on port 8080 + static frontend, all CORS and routing resolved |
-| **Repository** | [github.com/omkarbaravkar](https://github.com/omkarbaravkar) |
+| **Repository** | [github.com/omkarbaravkar](https://github.com/omkarbaravkar12) |
 
 Designed to demonstrate enterprise-grade thinking at a student scale — domain-separated schemas, fine-grained access control, and clean frontend-backend integration without any external dependency.
 
@@ -184,13 +184,13 @@ Designed to demonstrate enterprise-grade thinking at a student scale — domain-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarbaravkar&show_icons=true&theme=tokyonight&border_color=6A0DAD&title_color=9B59B6&icon_color=7D3C98&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omkarbaravkar12&show_icons=true&theme=tokyonight&border_color=6A0DAD&title_color=9B59B6&icon_color=7D3C98&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbaravkar&layout=compact&theme=tokyonight&border_color=6A0DAD&title_color=9B59B6&hide_border=false&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbaravkar12&layout=compact&theme=tokyonight&border_color=6A0DAD&title_color=9B59B6&hide_border=false&langs_count=8" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarbaravkar&theme=tokyonight&border=6A0DAD&ring=9B59B6&fire=7D3C98&currStreakLabel=9B59B6" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarbaravkar12&theme=tokyonight&border=6A0DAD&ring=9B59B6&fire=7D3C98&currStreakLabel=9B59B6" width="60%"/>
 </p>
 
 ---
@@ -198,7 +198,7 @@ Designed to demonstrate enterprise-grade thinking at a student scale — domain-
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omkarbaravkar&theme=darkhub&column=7&margin-w=10&margin-h=10&no-bg=true&title_color=9B59B6" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=omkarbaravkar12&theme=darkhub&column=7&margin-w=10&margin-h=10&no-bg=true&title_color=9B59B6" width="100%"/>
 </p>
 
 ---
@@ -206,7 +206,7 @@ Designed to demonstrate enterprise-grade thinking at a student scale — domain-
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarbaravkar&bg_color=0D1117&color=9B59B6&line=6A0DAD&point=7D3C98&area=true&hide_border=false" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarbaravkar12&bg_color=0D1117&color=9B59B6&line=6A0DAD&point=7D3C98&area=true&hide_border=false" width="100%"/>
 </p>
 
 ---
@@ -214,7 +214,7 @@ Designed to demonstrate enterprise-grade thinking at a student scale — domain-
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omkarbaravkar/omkarbaravkar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/omkarbaravkar12/omkarbaravkar12/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 ---
@@ -255,7 +255,7 @@ open_to:
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/omkarbaravkar" target="_blank">
+  <a href="https://github.com/omkarbaravkar12" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
