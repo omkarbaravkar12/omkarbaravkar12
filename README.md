@@ -59,7 +59,7 @@ public class OmkarBaravkar {
 }
 ```
 
-I am a final-year B.Sc. Computer Science student at MES Abasaheb Garware College, Pune, with a focused interest in **backend engineering** and **data-driven web systems**. I build production-style Java applications from scratch — without heavyweight frameworks — using Servlets, JDBC, Apache Tomcat, and normalised relational databases.
+I am a Graduate Computer Science student at MES Abasaheb Garware College, Pune, with a focused interest in **backend engineering** and **data-driven web systems**. I build production-style Java applications from scratch — without heavyweight frameworks — using Servlets, JDBC, Apache Tomcat, and normalised relational databases.
 
 My projects reflect a deliberate preference for understanding fundamentals: I refactored a Spring Boot prototype into a framework-independent Servlet app to own every layer of the stack. I care about clean architecture, secure session management, and writing SQL that scales.
 
