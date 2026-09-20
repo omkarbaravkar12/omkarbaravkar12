@@ -48,10 +48,10 @@
 public class OmkarBaravkar {
 
     private String role        = "Backend Developer";
-    private String education   = "B.Sc. Computer Science — Garware College, Pune (CGPA: 8.56)";
+    private String education   = "Msc. Computer Science — SPPU UNIVERSITY, Pune (CGPA: 8.56)";
     private String[] core      = { "Java", "Servlets", "JDBC", "PostgreSQL", "REST APIs" };
     private String philosophy  = "Write clean code, design normalised schemas, ship reliable systems.";
-    private String status      = "Final Year | Actively seeking Backend / Java Developer roles";
+    private String status      = "Pursuing | Actively seeking Backend / Java Developer roles";
 
     public String getQuote() {
         return "The best system is the one that still works when you are not watching it.";
@@ -59,7 +59,7 @@ public class OmkarBaravkar {
 }
 ```
 
-I am a Graduate Computer Science student at MES Abasaheb Garware College, Pune, with a focused interest in **backend engineering** and **data-driven web systems**. I build production-style Java applications from scratch — without heavyweight frameworks — using Servlets, JDBC, Apache Tomcat, and normalised relational databases.
+I am a Msc Computer Science Student from SAVITRI BAI PHULE PUNE UNIVERSITY, Pune, with a focused interest in **backend engineering** and **data-driven web systems**. I build production-style Java applications from scratch — without heavyweight frameworks — using Servlets, JDBC, Apache Tomcat, and normalised relational databases.
 
 My projects reflect a deliberate preference for understanding fundamentals: I refactored a Spring Boot prototype into a framework-independent Servlet app to own every layer of the stack. I care about clean architecture, secure session management, and writing SQL that scales.
 
