@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Sc.%20Computer%20Science-CGPA%3A%208.56-6A0DAD?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/M.Sc.%20Computer%20Science-CGPA%3A%208.56-6A0DAD?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Pune%2C%20Maharashtra-India-7D3C98?style=for-the-badge&logo=google-maps&logoColor=white"/>
   &nbsp;
